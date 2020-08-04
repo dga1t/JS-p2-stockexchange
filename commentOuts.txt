@@ -1,0 +1,10 @@
+/* let historyPrices = [];
+        let historyDates = [];
+
+        for (let i = bigHistoryArray.length - 1; i > 0; i--) {
+          historyPrices.push(bigHistoryArray[i]['close']);
+          historyDates.push(bigHistoryArray[i]['date']);
+        }
+
+        console.log(historyPrices);
+        console.log(historyDates); */
